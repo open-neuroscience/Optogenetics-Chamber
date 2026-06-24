@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "main.kicad_pro",
+    "filename": "led_boards.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -560,26 +560,14 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
-        },
-        {
-          "group_by": false,
-          "label": "Descrição",
-          "name": "Description",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
-          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "",
+      "name": "Default Editing",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "Referência"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -623,7 +611,7 @@
   },
   "sheets": [
     [
-      "77f37200-52aa-40a8-b4aa-fe29823de14e",
+      "31e110e8-d2f9-4ae2-bce8-f4efac41ceae",
       "Root"
     ]
   ],
