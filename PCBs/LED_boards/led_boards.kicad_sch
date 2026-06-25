@@ -1325,10 +1325,6 @@
 		(uuid "c9137c13-3dd7-49f5-af6b-d803a714a077")
 	)
 	(no_connect
-		(at 153.67 71.12)
-		(uuid "e482e265-022f-4156-b731-dc22d0ebe520")
-	)
-	(no_connect
 		(at 124.46 64.77)
 		(uuid "eeff37a9-12bd-4767-a704-575940fb070e")
 	)
@@ -1718,7 +1714,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" ""
 			(at 173.99 63.5 0)
 			(effects
 				(font
@@ -1787,7 +1783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB_Wide_Pins"
+		(property "Footprint" ""
 			(at 195.58 64.77 0)
 			(effects
 				(font
@@ -1860,7 +1856,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" ""
 			(at 104.14 67.31 0)
 			(effects
 				(font
@@ -2062,7 +2058,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" ""
 			(at 173.99 66.04 0)
 			(effects
 				(font
@@ -2130,7 +2126,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical"
+		(property "Footprint" ""
 			(at 116.84 67.31 0)
 			(effects
 				(font
@@ -2222,7 +2218,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" ""
 			(at 173.99 68.58 0)
 			(effects
 				(font
@@ -2290,7 +2286,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical"
+		(property "Footprint" ""
 			(at 158.75 66.04 0)
 			(effects
 				(font
@@ -2381,7 +2377,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" ""
 			(at 104.14 72.39 0)
 			(effects
 				(font
@@ -2515,7 +2511,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB_Wide_Pins"
+		(property "Footprint" ""
 			(at 82.55 66.04 0)
 			(effects
 				(font
@@ -2588,7 +2584,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" ""
 			(at 104.14 69.85 0)
 			(effects
 				(font
@@ -2656,7 +2652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" ""
 			(at 173.99 71.12 0)
 			(effects
 				(font
@@ -2789,7 +2785,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" ""
 			(at 104.14 64.77 0)
 			(effects
 				(font
@@ -2857,7 +2853,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
+		(property "Footprint" ""
 			(at 82.55 76.2 0)
 			(effects
 				(font
@@ -2935,7 +2931,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
+		(property "Footprint" ""
 			(at 195.58 74.93 0)
 			(effects
 				(font
