@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D3",LED_D5.0mm-4_RGB_Wide_Pins,2,LED_RGBK,
+"D2, D4",LED_D5.0mm,2,LED,
+"J1, J2",IDC-Header_2x05_P2.54mm_Vertical,2,from_shield,
+MOUSE-BITE-2MM-SLOT,mouse-bite-2mm-slot,1,VAL**,
+"R1, R2, R3, R4, R5, R6, R7, R8",R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,8,220ohms,
